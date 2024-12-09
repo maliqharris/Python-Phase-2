@@ -1,1 +1,1 @@
-print("This is the first week of training.")
+print("This is the 2nd week of training.")
